@@ -33,7 +33,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="ubuntu-linux" width="50" height="50" />
 </p>
-
+<h6>
+  Thank you <a href="https://github.com/devicons/devicon/tree/master/icons">devicons</a> for these beatiful icons ☺
+</h6>
 <!--
 <h3 align="left">Programing Languages</h3>
 <p align="left">
