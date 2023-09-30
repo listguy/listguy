@@ -1,23 +1,22 @@
-<h1 align="center"> Hi, I'm Nitzan</h1>
-<h4 align="center"> A junior full-stack web developer, open to work! 🎓 💻 💼</h4>
-<br/>
-<h3 align="left"> A few of my works</h3>
+<h1 align="center"> Hi, I'm Nitzan </h1>
+<h4 align="center"> A programmer and CS student, open to work! 🎓 💻 💼</h4>
 
-  - 📍  [Israel Map Game](https://map-game-nitzo.herokuapp.com/)
+## A few of my works
+
+  - 📍  [Israel Map Game](https://map-game-ho3r.onrender.com)
   
   - 📑  [Ticket Manager](https://listguy-ticket-mannager-glitch2-2.glitch.me/)
   
   - 🎶  [Music service](https://github.com/listguy/Sbotify-songstreamer)
-  
-  - 👥  [CRM project](https://github.com/ShaharEli/crm)
 
 <br />
-<h2 align="left">Programing Languages, Frameworks & Tools</h2>
+
+## Programing Languages, Frameworks & Tools
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" alt="c" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="50" height="50" />
   
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="node" width="50" height="50" />
@@ -27,7 +26,7 @@
 
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongoDB" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50" />
   
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="50" height="50"/> 
